@@ -1,5 +1,5 @@
-# -Telecom-X-an-lise-de-evas-o-de-clientes
-Relatório Final – Análise de Evasão de Clientes na TelecomX_BR
+# Relatório Final – Análise de Evasão de Clientes na TelecomX_BR
+
 1. Introdução
 A evasão de clientes, conhecida como churn, é um dos maiores desafios enfrentados por empresas do setor de telecomunicações. Este relatório tem como objetivo identificar padrões comportamentais que influenciam a decisão dos clientes de cancelarem os serviços da TelecomX_BR, utilizando técnicas de análise exploratória de dados para apoiar ações estratégicas de retenção.
 2. Limpeza e Tratamento de Dados
