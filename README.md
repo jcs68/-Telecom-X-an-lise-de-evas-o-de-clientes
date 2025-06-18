@@ -1,8 +1,6 @@
-# Relatório Final – Análise de Evasão de Clientes na TelecomX_BR
+# 📌 Relatório Final – Análise de Evasão de Clientes na TelecomX_BR
 
 ---
-
-## 📌 Relatório Final – Análise de Evasão de Clientes na TelecomX_BR
 
 ### 1. Introdução
 
