@@ -20,12 +20,17 @@ Criação da variável derivada Contas Diárias, representando o custo médio di
    
 Foram geradas visualizações e estatísticas descritivas com o objetivo de compreender o comportamento da base de clientes.
 3.1. Distribuição do Cancelamento
+
 Gráficos indicaram que aproximadamente 26,5% dos clientes cancelaram os serviços, enquanto 73,5% permaneceram.
+
 3.2. Cancelamento por Variáveis Categóricas
+
 •	Tipo de contrato: Clientes com plano "Mês a mês" apresentaram alta taxa de churn.
 •	Método de pagamento: Cancelamentos foram mais frequentes entre clientes que utilizam boleto eletrônico.
 •	Gênero e dependentes: Não houve diferença significativa entre homens e mulheres, porém, clientes com dependentes tendem a permanecer mais tempo.
+
 3.3. Cancelamento por Variáveis Numéricas
+
 •	Cobrança total: Clientes que cancelam frequentemente possuem faturamento total baixo, indicando abandono precoce do serviço.
 •	Tempo de permanência: Clientes que cancelam estão concentrados entre os primeiros 10 meses de contrato.
 •	Contas diárias: Quanto maior o gasto diário, maior a chance de evasão (especialmente acima de R$ 3,00/dia).
